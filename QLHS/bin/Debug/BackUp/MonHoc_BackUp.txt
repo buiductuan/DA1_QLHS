@@ -1,0 +1,567 @@
+- Thời điểm sao lưu : 06/11/2015
+TV#Tieng Viet#
+T#Toan#khong co
+LS#Lich Su#
+DL#Dia Ly#
+- Thời điểm sao lưu : 06/11/2015
+TV#Tieng Viet#
+LS#Lich Su#
+DL#Dia Ly#
+T#Toan#
+- Thời điểm sao lưu : 06/11/2015
+T#Toan#
+DL#Dia Ly#
+LS#Lich Su#
+TV#Tieng Viet#
+- Thời điểm sao lưu : 06/11/2015
+DC#Cong Dan#
+T#Toan#
+DL#Dia Ly#
+LS#Lich Su#
+TV#Tieng Viet#
+- Thời điểm sao lưu : 06/11/2015
+TA#Tieng Anh#Bat Buoc
+DC#Cong Dan#
+T#Toan#
+DL#Dia Ly#
+LS#Lich Su#
+TV#Tieng Viet#
+- Thời điểm sao lưu : 06/11/2015
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#
+LS#Lich Su#
+DL#Dia Ly#
+T#Toan#
+DC#Cong Dan#
+- Thời điểm sao lưu : 06/11/2015
+TV#Tieng Viet#Bat Buoc
+DC#Cong Dan#
+T#Toan#
+DL#Dia Ly#
+LS#Lich Su#
+TA#Tieng Anh#Bat Buoc
+- Thời điểm sao lưu : 06/11/2015
+TV#Tieng Viet#Bat Buoc
+DC#Cong Dan#
+T#Toan#
+DL#Dia Ly#
+LS#Lich Su#
+TA#Tieng Anh#Bat Buoc
+- Thời điểm sao lưu : 06/11/2015
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+DL#Dia Ly#
+T#Toan#
+DC#Cong Dan#
+TV#Tieng Viet#Bat Buoc
+- Thời điểm sao lưu : 06/11/2015
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+DL#Dia Ly#
+T#Toan#
+DC#Cong Dan#
+TV#Tieng Viet#Bat Buoc
+- Thời điểm sao lưu : 06/11/2015
+DL#Dia Ly#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DC#Cong Dan#
+T#Toan#
+TA#Tieng Anh#Bat Buoc
+LS#Lich Su#Bat Buoc
+- Thời điểm sao lưu : 06/11/2015
+DL#Dia Ly#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DC#Cong Dan#
+T#Toan#
+TA#Tieng Anh#Bat Buoc
+LS#Lich Su#Bat Buoc
+- Thời điểm sao lưu : 06/11/2015
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+DC#Cong Dan#
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+- Thời điểm sao lưu : 06/11/2015
+DC#Cong Dan#Bat Buoc
+DL#Dia Ly#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+LS#Lich Su#Bat Buoc
+T#Toan#Bat Buoc
+- Thời điểm sao lưu : 07/11/2015
+KT#Ky Thuat#Tu Chon
+KH#Khoa Hoc#Bat Buoc
+MT#My Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 07/11/2015
+KT#Ky Thuat#Tu Chon
+KH#Khoa Hoc#Bat Buoc
+MT#My Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 07/11/2015
+KT#Ky Thuat#Tu Chon
+KH#Khoa Hoc#Bat Buoc
+MT#My Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 07/11/2015
+KT#Ky Thuat#Tu Chon
+KH#Khoa Hoc#Bat Buoc
+MT#My Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 09/11/2015
+KT#Ky Thuat#Tu Chon
+KH#Khoa Hoc#Bat Buoc
+MT#My Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 11/11/2015
+KT#Ky Thuat#Tu Chon
+KH#Khoa Hoc#Bat Buoc
+MT#My Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 24/11/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 25/11/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 25/11/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 25/11/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 25/11/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 25/11/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 25/11/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 25/11/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 25/11/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 25/11/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 26/11/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 26/11/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 06/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 06/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 06/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 06/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 08/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 08/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 09/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 09/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 09/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 09/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 09/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 09/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 09/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 10/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 12/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 12/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 13/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 14/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 14/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 18/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 18/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 23/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 23/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 23/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 24/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 24/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 24/12/2015
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 05/03/2016
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon
+- Thời điểm sao lưu : 15/06/2016
+MT#Mi Thuat#Tu Chon
+DD#Dao Duc#Bat Buoc
+T#Toan#Bat Buoc
+LS#Lich Su#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+DL#Dia Ly#Bat Buoc
+KH#Khoa Hoc#Tu Chon
+AN#Am Nhac#Tu Chon

@@ -1,0 +1,6 @@
+C:\Users\tuan\documents\visual studio 2015\Projects\QLHS\QLHS\bin\Debug\QLHS.exe.config
+C:\Users\tuan\documents\visual studio 2015\Projects\QLHS\QLHS\bin\Debug\QLHS.exe
+C:\Users\tuan\documents\visual studio 2015\Projects\QLHS\QLHS\bin\Debug\QLHS.pdb
+C:\Users\tuan\documents\visual studio 2015\Projects\QLHS\QLHS\obj\Debug\QLHS.csprojResolveAssemblyReference.cache
+C:\Users\tuan\documents\visual studio 2015\Projects\QLHS\QLHS\obj\Debug\QLHS.exe
+C:\Users\tuan\documents\visual studio 2015\Projects\QLHS\QLHS\obj\Debug\QLHS.pdb

@@ -1,0 +1,37 @@
+ -Thời gian tìm kiếm : 01/11/2015
+103#Nguyen Van Chien#07/09/2004#Nam#Tuyen Quang#21412546467#2014-2015#L4
+ -Thời gian tìm kiếm : 01/11/2015
+104#Nguyen Thi Tam#12/12/2004#Nu#Quang Ninh#0123499999#2014-2015#L2
+ -Thời gian tìm kiếm : 01/11/2015
+101#Bui Duc Tuan#08/11/2005#Nam#Quang Ninh#01687253688#2014-2015#L1
+ -Thời gian tìm kiếm : 01/11/2015
+104#Nguyen Thi Tam#12/12/2004#Nu#Quang Ninh#0123499999#2014-2015#L2
+107#Dang The Tung#04/09/2005#Nam#Ha Noi#0098908734#2014-2015#L2
+110#Nguyen Hong Tham#09/08/2005#Nu#Ha Noi#3256923589#2014-2015#L2
+ -Thời gian tìm kiếm : 02/11/2015
+104#Nguyen Thi Tam#12/12/2004#Nu#Quang Ninh#0123499999#2014-2015#L2
+ -Thời gian tìm kiếm : 07/11/2015
+103#Nguyen Van Chien#07/09/2004#Nam#Tuyen Quang#21412546467#2014-2015#L4
+105#Nguyen Minh Tri#09/09/2005#Nam#Ha Noi#0123214555#2014-2015#L4
+ -Thời gian tìm kiếm : 11/11/2015
+123#Nguyen Anh Minh#10/10/2005#Nam#Hai Duong#021948284#2014-2015#L1
+ -Thời gian tìm kiếm : 22/11/2015
+101#Nguyen Minh Anh#06/11/2007#Nam#Quang Ninh#0142142155#2014-2015#L1
+ -Thời gian tìm kiếm : 22/11/2015
+111#Nguyen Phuong Linh#01/04/2007#Nu#Quang Ninh#0124125125#2014-2015#L1
+110#Nguyen Quang Khoi#02/05/2007#Nam#Quang Ninh#0124215125#2014-2015#L1
+109#Tran Dang Khoa#02/06/2007#Nam#Quang Ninh#02142151521#2014-2015#L1
+108#Le Gia Huy#04/07/2007#Nam#Quang Ninh#0124215215#2014-2015#L1
+107#Nguyen Hoang Hai#02/01/2007#Nam#Quang Ninh#0215325325#2014-2015#L1
+106#Vo Viet Ha#03/06/2007#Nu#Quang Ninh#0324324325#2014-2015#L1
+105#Dao Thien Du#08/02/2007#Nam#Quang Ninh#05125325235#2014-2015#L1
+104#Vo Ngan Anh#07/05/2007#Nu#Quang Ninh#02231412414#2014-2015#L1
+103#Nguyen Tuong Anh#14/12/2007#Nu#Quang Ninh#0124215215#2014-2015#L1
+102#Nguyen Phuong Anh#15/02/2007#Nu#Quang Ninh#0242152155#2014-2015#L1
+101#Nguyen Minh Anh#06/11/2007#Nam#Quang Ninh#0142142155#2014-2015#L1
+ -Thời gian tìm kiếm : 25/11/2015
+113#Bui Minh Tung#05/09/2007#Nam#Quang Ninh#0123214214#2014-2015#L1
+ -Thời gian tìm kiếm : 06/12/2015
+119#Bui Duc Tuan#08/11/2007#Nam#Quang Ninh#0143214124#2014-2015#L1
+ -Thời gian tìm kiếm : 02/11/2016
+101144#Nguyen Anh#08/11/2004#Nam#Quang Ninh#0828340239#2015-2016#L3

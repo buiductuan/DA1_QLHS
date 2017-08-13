@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DC85640C-851B-44C7-B2A8-AD9C262DB03D}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QLHS</RootNamespace>
+    <AssemblyName>QLHS</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>brand1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Business\Components\BangDiemBLL.cs" />
+    <Compile Include="Business\Components\DangNhapBLL.cs" />
+    <Compile Include="Business\Components\GVCNBLL.cs" />
+    <Compile Include="Business\Components\HocSinhBLL.cs" />
+    <Compile Include="Business\Components\LopBLL.cs" />
+    <Compile Include="Business\Components\MonHocBLL.cs" />
+    <Compile Include="Business\Components\TinhDiemBLL.cs" />
+    <Compile Include="Business\Service Interface\IBangDiemBLL.cs" />
+    <Compile Include="Business\Service Interface\IDangNhapBLL.cs" />
+    <Compile Include="Business\Service Interface\IGVCNBLL.cs" />
+    <Compile Include="Business\Service Interface\IHocSinhBLL.cs" />
+    <Compile Include="Business\Service Interface\ILopBLL.cs" />
+    <Compile Include="Business\Service Interface\IMonHocBLL.cs" />
+    <Compile Include="Business\Service Interface\ITinhDiemBLL.cs" />
+    <Compile Include="DataAccessLayer\BangDiemDAL.cs" />
+    <Compile Include="DataAccessLayer\DangNhapDAL.cs" />
+    <Compile Include="DataAccessLayer\GVCNDAL.cs" />
+    <Compile Include="DataAccessLayer\HocSinhDAL.cs" />
+    <Compile Include="DataAccessLayer\LopDAL.cs" />
+    <Compile Include="DataAccessLayer\MonHocDAL.cs" />
+    <Compile Include="DataAccessLayer\Service Interface\IBangDiemDAL.cs" />
+    <Compile Include="DataAccessLayer\Service Interface\IDangNhapDAL.cs" />
+    <Compile Include="DataAccessLayer\Service Interface\IGVCNDAL.cs" />
+    <Compile Include="DataAccessLayer\Service Interface\IHocSinhDAL.cs" />
+    <Compile Include="DataAccessLayer\Service Interface\ILopDAL.cs" />
+    <Compile Include="DataAccessLayer\Service Interface\IMonHocDAL.cs" />
+    <Compile Include="DataAccessLayer\Service Interface\ITinhDiemDAL.cs" />
+    <Compile Include="DataAccessLayer\TinhDiemDAL.cs" />
+    <Compile Include="Entities\BangDiem.cs" />
+    <Compile Include="Entities\MonHoc.cs" />
+    <Compile Include="Entities\DangNhap.cs" />
+    <Compile Include="Entities\GVCN.cs" />
+    <Compile Include="Entities\HocSinh.cs" />
+    <Compile Include="Entities\Lop.cs" />
+    <Compile Include="Entities\TinhDiem.cs" />
+    <Compile Include="Presenations\FormBangDiem.cs" />
+    <Compile Include="Presenations\FormBia.cs" />
+    <Compile Include="Presenations\FormDN.cs" />
+    <Compile Include="Presenations\FormGVCN.cs" />
+    <Compile Include="Presenations\FormHS.cs" />
+    <Compile Include="Presenations\FormLop.cs" />
+    <Compile Include="Presenations\FormMonHoc.cs" />
+    <Compile Include="Presenations\FormThongKe.cs" />
+    <Compile Include="Presenations\FormTimKiem.cs" />
+    <Compile Include="Presenations\MenuChinh.cs" />
+    <Compile Include="Presenations\Paint.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utility\CongCu.cs" />
+    <Compile Include="Utility\List.cs" />
+    <Compile Include="Utility\ThongTinPM.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="brand1.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

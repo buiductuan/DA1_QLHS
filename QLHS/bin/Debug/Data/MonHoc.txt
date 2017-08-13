@@ -1,0 +1,10 @@
+AN#Am Nhac#Tu Chon
+KH#Khoa Hoc#Tu Chon
+DL#Dia Ly#Bat Buoc
+TV#Tieng Viet#Bat Buoc
+TA#Tieng Anh#Bat Buoc
+LS#Lich Su#Bat Buoc
+T#Toan#Bat Buoc
+DD#Dao Duc#Bat Buoc
+
+MT#Mi Thuat#Tu Chon
